@@ -225,6 +225,11 @@ button {
     right: 0;
 }
 
+.scroll-header{
+  background-color: var(--body-color);
+  box-shadow: 0 1px 4px hsla(0, 4%, 15%, .1);
+} 
+
 .home__container{
   position: relative;
   row-gap: 2.5rem;
