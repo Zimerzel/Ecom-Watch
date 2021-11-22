@@ -92,3 +92,9 @@ if(cartShop){
         cart.classList.add('show-cart')
     })
 }
+
+if(cartClose){
+    cartClose.addEventListener('click', () =>{
+        cart.classList.remove('show-cart')
+    })
+}
