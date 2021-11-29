@@ -1,0 +1,26 @@
+{
+  "name": "Ecom-Watch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zimerzel/Ecom-Watch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zimerzel/Ecom-Watch/issues"
+  },
+  "homepage": "https://github.com/Zimerzel/Ecom-Watch#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "dependencies": {
+    "swiper": "^7.3.1"
+  }
+}
